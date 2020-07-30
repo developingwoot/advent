@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\src\Advent\Advent\Game.cpp(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Advent.vcxproj -> C:\src\Advent\x64\Debug\Advent.exe
